@@ -28,7 +28,7 @@ interets: [Photographie 📷, Basketball 🏀, Cybersécurité 🔐]
 - 💼 Ex-stagiaire **Chargé de projets IT** au Ministère de l'Agriculture et de l'Élevage (MINAE)
 - 🛠️ J'aime concevoir des outils qui simplifient la vie — applications de gestion, scripts d'automatisation, réseaux
 - 🔍 En pleine exploration du monde de la **cybersécurité**
-- 💬 Parlons de Java, Python, réseaux, Docker, ou sécurité informatique
+- 💬 Parlons de C, C++, Java, Python, réseaux, Docker, ou sécurité informatique
 - 📫 **mamitinarak.mr@gmail.com**
 
 <br>
