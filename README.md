@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE59D,100:1a1a2e&height=220&section=header&text=Mamy24&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Développeur%20%7C%20Étudiant%20à%2042%20%7C%20Passionné%20de%20Cybersécurité&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE59D,100:1a1a2e&height=220&section=header&text=Mamy24&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Développeur%20%7C%20Étudiant%20à%2042%20%7C%20Passionné%20de%20C&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/mamitina-rakotondranaivo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mamitinarak.mr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
