@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE59D,100:1a1a2e&height=220&section=header&text=Mamy24&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Développeur%20%7C%20Étudiant%20à%2042%20%7C%20Passionné%20de%20C&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE59D,100:1a1a2e&height=220&section=header&text=Mamitina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Développeur%20%7C%20Étudiant%20à%2042%20%7C%20Passionné%20de%20C&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/mamitina-rakotondranaivo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mamitinarak.mr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Antananarivo-Madagascar-2EE59D?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE59D&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+Tronc+Commun+%C3%A0+42+Antananarivo;D%C3%A9veloppeur+Java+%7C+Python+%7C+C%2B%2B+%7C+C%23;Passionn%C3%A9+de+R%C3%A9seaux+%26+C/C++3%A9;Toujours+curieux%2C+toujours+en+apprentissage+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE59D&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+Tronc+Commun+%C3%A0+42+Antananarivo;D%C3%A9veloppeur+Java+%7C+Python+%7C+C%2B%2B+%7C+C%23;Passionn%C3%A9+de+R%C3%A9seaux+%26+Cybers%C3%A9curit%C3%A9;Toujours+curieux%2C+toujours+en+apprentissage+%F0%9F%9A%80" />
 
 </div>
 
@@ -28,7 +28,7 @@ interets: [Photographie 📷, Basketball 🏀, Cybersécurité 🔐]
 - 💼 Ex-stagiaire **Chargé de projets IT** au Ministère de l'Agriculture et de l'Élevage (MINAE)
 - 🛠️ J'aime concevoir des outils qui simplifient la vie — applications de gestion, scripts d'automatisation, réseaux
 - 🔍 En pleine exploration du monde de la **cybersécurité**
-- 💬 Parlons de C, C++, Java, Python, réseaux, Docker, ou sécurité informatique
+- 💬 Parlons de Java, Python, réseaux, Docker, ou sécurité informatique
 - 📫 **mamitinarak.mr@gmail.com**
 
 <br>
@@ -116,7 +116,7 @@ interets: [Photographie 📷, Basketball 🏀, Cybersécurité 🔐]
 
 ## ✨ Compétences transversales
 
-<div align="center">
+<div align="center">mamrakot24
 <img src="https://img.shields.io/badge/Travail%20d'équipe-2EE59D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Adaptabilité-2EE59D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Responsable-2EE59D?style=for-the-badge"/>
