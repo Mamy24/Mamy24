@@ -18,7 +18,7 @@
 nom: RAKOTONDRANAIVO Mamitina Ronaldo
 localisation: Alasora, Antananarivo, Madagascar
 etudes_actuelles: Tronc commun — 42 Antananarivo (GALAXY Andraharo)
-formation_precedente: Master en Ingénierie des Signaux et Système Informatique a l'Universite d'ANTNANARIVO
+formation_precedente: Master en Ingénierie des Signaux et Système Informatique a l'Universite d'ANTANANARIVO
 langues: [Malagasy, Français (B2), Anglais (Intermédiaire)]
 interets: [Photographie 📷, Basketball 🏀, Cybersécurité 🔐]
 ```
