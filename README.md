@@ -6,7 +6,7 @@
 <a href="mailto:mamitinarak.mr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Antananarivo-Madagascar-2EE59D?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE59D&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+Tronc+Commun+%C3%A0+42+Antananarivo;D%C3%A9veloppeur+Java+%7C+Python+%7C+C%2B%2B+%7C+C%23;Passionn%C3%A9+de+R%C3%A9seaux+%26+Cybers%C3%A9curit%C3%A9;Toujours+curieux%2C+toujours+en+apprentissage+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EE59D&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+Tronc+Commun+%C3%A0+42+Antananarivo;D%C3%A9veloppeur+Java+%7C+Python+%7C+C%2B%2B+%7C+C%23;Passionn%C3%A9+de+R%C3%A9seaux+%26+CA9;Toujours+curieux%2C+toujours+en+apprentissage+%F0%9F%9A%80" />
 
 </div>
 
